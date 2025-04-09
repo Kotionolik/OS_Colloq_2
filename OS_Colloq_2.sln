@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OS_Colloq_2", "OS_Colloq_2\OS_Colloq_2.vcxproj", "{6FB08231-013C-4706-A1FE-34402906CC9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FB08231-013C-4706-A1FE-34402906CC9E}.Debug|x64.ActiveCfg = Debug|x64
+		{6FB08231-013C-4706-A1FE-34402906CC9E}.Debug|x64.Build.0 = Debug|x64
+		{6FB08231-013C-4706-A1FE-34402906CC9E}.Debug|x86.ActiveCfg = Debug|Win32
+		{6FB08231-013C-4706-A1FE-34402906CC9E}.Debug|x86.Build.0 = Debug|Win32
+		{6FB08231-013C-4706-A1FE-34402906CC9E}.Release|x64.ActiveCfg = Release|x64
+		{6FB08231-013C-4706-A1FE-34402906CC9E}.Release|x64.Build.0 = Release|x64
+		{6FB08231-013C-4706-A1FE-34402906CC9E}.Release|x86.ActiveCfg = Release|Win32
+		{6FB08231-013C-4706-A1FE-34402906CC9E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6410B576-5AEB-4840-9A10-5ACCCE554207}
+	EndGlobalSection
+EndGlobal
